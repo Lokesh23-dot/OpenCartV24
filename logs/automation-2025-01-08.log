@@ -1,0 +1,65 @@
+11:53:44.437 [main] INFO  testCases.TC001_AccountRegistrationTest - Started executing TC001_AccountRegistrationTest
+11:53:47.114 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount
+11:54:53.718 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24\Master.xml
+
+11:55:02.633 [main] INFO  testCases.TC001_AccountRegistrationTest - Started executing TC001_AccountRegistrationTest
+11:55:02.800 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount
+11:55:06.714 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register
+11:55:06.722 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering Customer Information
+11:55:08.948 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Verifcation Message
+11:55:09.019 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished executing TC001_AccountRegistrationTest
+11:55:34.533 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24\crossbrowsertestingAndparalleltesting.xml
+
+11:55:49.454 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Started executing TC001_AccountRegistrationTest
+11:56:02.188 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Started executing TC001_AccountRegistrationTest
+11:56:02.280 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Started executing TC001_AccountRegistrationTest
+11:56:02.599 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount
+11:56:02.880 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount
+11:56:03.108 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount
+11:56:06.061 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register
+11:56:06.065 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entering Customer Information
+12:09:07.258 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24\Master.xml
+
+12:10:07.289 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24\Master.xml
+
+12:10:12.753 [main] INFO  testCases.TC001_AccountRegistrationTest - Started executing TC001_AccountRegistrationTest
+12:10:13.613 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount
+12:10:14.099 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register
+12:10:14.107 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering Customer Information
+12:10:15.715 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Verifcation Message
+12:10:15.786 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished executing TC001_AccountRegistrationTest
+12:12:42.819 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24\Master.xml
+
+12:12:47.012 [main] INFO  testCases.TC001_AccountRegistrationTest - Started executing TC001_AccountRegistrationTest
+12:12:47.898 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount
+12:12:48.402 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register
+12:12:48.411 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering Customer Information
+12:12:50.010 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Verifcation Message
+12:12:50.073 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished executing TC001_AccountRegistrationTest
+10:39:18.900 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24\grid-docker.xml
+
+10:39:19.570 [main] INFO  testCases.TC001_AccountRegistrationTest - Started executing TC001_AccountRegistrationTest
+10:40:50.895 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24\grid-docker.xml
+
+10:40:51.389 [main] INFO  testCases.TC001_AccountRegistrationTest - Started executing TC001_AccountRegistrationTest
+10:41:33.328 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24\Master.xml
+
+10:44:34.020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24\Master.xml
+
+10:45:05.481 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24\grid-docker.xml
+
+10:45:05.989 [main] INFO  testCases.TC001_AccountRegistrationTest - Started executing TC001_AccountRegistrationTest
+10:46:50.030 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24\Master.xml
+
+10:47:00.510 [main] INFO  testCases.TC001_AccountRegistrationTest - Started executing TC001_AccountRegistrationTest

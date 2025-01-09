@@ -1,0 +1,2 @@
+cd C:\Users\lokes\Desktop\New Practice Workspace\OpenCartV24
+mvn test
